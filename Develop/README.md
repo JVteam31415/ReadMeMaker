@@ -1,6 +1,6 @@
 # undefined
 ## Table of Contents
-Description
+    Description
     Installation
     Usage
     License
@@ -8,28 +8,28 @@ Description
     Tests
     Questions
 
-    ##Description
-    THis creates readme.md s
+##Description
+    This project creates a markdown from given inputs
         
-    ##Installation
-    download the files
-    ##Usage
-    open index.js using node
+##Installation
+    None, really, download the project from github
+##Usage
+    answer the questions then collect the readme from the folder
 
-    ##License
+##License
     undefined
      undefined
 
-    ##Contributing:
-    ###Github
-    jvteam31415
-    ###User Email
+##Contributing:
+###Github
+    JVteam31415
+###User Email
     vandej8@rpi.edu  
 
 
-    ##Tests
+##Tests
     none
 
-    ##Questions
-    NOthing comes to mind
+##Questions
+    none
 

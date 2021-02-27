@@ -9,7 +9,10 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 //Usage, License y, Contributing y, Tests, and Questions
 
 //ToC Generated to include rest of things
-const questions = [{
+const questions = [{type: 'input',
+name: 'title',
+message: "What is the title of your project?"},
+    {
     type: 'input',
     name: 'github',
     message: 'what is your github username?'
@@ -35,7 +38,7 @@ message:"Describe how to use this product:"
 
 {
     type: 'list',
-    name: "liscense",
+    name: "license",
     message: "What kind of license is your project using",
     choices:["MIT","APACHE", 'NONE']
 },
