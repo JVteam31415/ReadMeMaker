@@ -1,4 +1,4 @@
-# undefined
+# testing mit
 ## Table of Contents
     Description
     Installation
@@ -8,28 +8,28 @@
     Tests
     Questions
 
-##Description
-    This project creates a markdown from given inputs
+## Description
+    a
         
-##Installation
-    None, really, download the project from github
-##Usage
-    answer the questions then collect the readme from the folder
+## Installation
+    idk
+## Usage
+    irrelevant
 
-##License
-    undefined
-     undefined
+## License
+    MIT
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT
 
-##Contributing:
-###Github
-    JVteam31415
-###User Email
-    vandej8@rpi.edu  
+## Contributing:
+### Github
+    a
+### User Email
+    a  
 
 
-##Tests
-    none
+## Tests
+    no
 
-##Questions
-    none
+## Questions
+    no
 
