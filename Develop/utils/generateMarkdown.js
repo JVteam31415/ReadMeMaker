@@ -71,9 +71,9 @@ ${renderLicenseSection(data.license)}
 
 ## Contributing:
 ### Github
-[${data.github}](${data.github})
+[${data.github}](https://github.com/${data.github})
 ### User Email
-[${data.email}](${data.github})  
+[${data.email}](${data.email})  
 
 
 ## Tests
