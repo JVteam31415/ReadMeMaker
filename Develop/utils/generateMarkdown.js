@@ -73,7 +73,7 @@ ${renderLicenseSection(data.license)}
 ### Github
 [${data.github}](https://github.com/${data.github})
 ### User Email
-[${data.email}](${data.email})  
+[${data.email}](mailto:${data.email})  
 
 
 ## Tests

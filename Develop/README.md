@@ -1,4 +1,4 @@
-# an example
+# Example Project
 ## Table of Contents
 [Description](#Description)
 [Installation](#Installation)
@@ -9,27 +9,27 @@
 [Questions](#Questions)
 
 ## Description
-    no
+    This is an example description
         
 ## Installation
-    not really
+    example installation
 ## Usage
-    I'd rather not
+    you don't, this is not a real project
 
 ## License
-    NONE
- 
+    APACHE
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) https://opensource.org/licenses/Apache-2.0
 
 ## Contributing:
 ### Github
-[JVteam31415](https://github.com/JVteam31415)
+[jvteam31415](https://github.com/jvteam31415)
 ### User Email
-[vandej8@rpi.edu](vandej8@rpi.edu)  
+[vandej8@rpi.edu](mailto:vandej8@rpi.edu)  
 
 
 ## Tests
-    no
+    none
 
 ## Questions
-    nope
+    none
 
