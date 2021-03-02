@@ -16,6 +16,12 @@
 ## Usage
     run node index.js from console
 
+
+
+Link to a video walkthrough:
+https://www.youtube.com/watch?v=vDHqHeIYmbM
+
+
 ## License
     NONE
      NONE
@@ -32,4 +38,6 @@
 
 ## Questions
     nope
+
+
 
